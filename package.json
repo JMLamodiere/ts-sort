@@ -1,0 +1,19 @@
+{
+  "name": "ts-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMLamodiere/ts-sort.git"
+  },
+  "author": "Jean-Marie Lamodière",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JMLamodiere/ts-sort/issues"
+  },
+  "homepage": "https://github.com/JMLamodiere/ts-sort#readme"
+}
